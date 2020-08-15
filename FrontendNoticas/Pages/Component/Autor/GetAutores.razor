@@ -1,0 +1,56 @@
+﻿@inject HttpClient Http
+@page "/obtener-autores"
+
+<h3>GetAutores</h3>
+
+@if (autores == null)
+{
+    <h2>Cargando...</h2>
+}
+else if (autores.Count == 0)
+{
+    <h2>No hay datos de autores</h2>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in autores)
+            {
+                <tr>
+                    <td>@i.Nombre</td>
+                    <td>@i.Apellido</td>
+                    <td>@i.Email</td>
+                    <td>
+                        <a class="btn btn-success">Editar</a>
+                        <button class="btn btn-danger">Eliminar</button>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Autor> autores { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await mostrarAutores();
+    }
+
+    async Task mostrarAutores()
+    {
+        autores = await Http.GetJsonAsync<List<Autor>>("/api/Autors");
+        
+    }
+}

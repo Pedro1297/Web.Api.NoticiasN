@@ -1,0 +1,16 @@
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.csprojAssemblyReference.cache
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.AssemblyInfoInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.AssemblyInfo.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.csproj.CoreCompileInputs.cache
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\Fronted-Noticias.RazorComponent.input.cache
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Component\Autor\GetAutor.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Anyelo Vinzen\source\repos\web.Api.Noticias\Backend-Noticias\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
